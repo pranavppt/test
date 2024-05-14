@@ -26,7 +26,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Create a new branch: `git checkout -b feature/your-feature`
 3. Make your changes and commit them: `git commit -m 'Add your changes'`
 4. Push to the branch: `git push origin feature/your-feature`
-5. Submit a pull request.
+5. Submit a pull request
 
 ## License
 
