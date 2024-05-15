@@ -35,3 +35,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 added more information
 
 see the latest update
+
+join our channel 
