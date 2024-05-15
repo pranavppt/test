@@ -37,3 +37,4 @@ added more information
 see the latest update
 
 see our instagram page
+join our channel 
